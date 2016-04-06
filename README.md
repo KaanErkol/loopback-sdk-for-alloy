@@ -1,4 +1,6 @@
-# LoopBack AngularJS SDK
+# LoopBack AngularJS SDK for alloy framework
+
+--will be updated--
 
 **NOTE: The loopback-sdk-angular module supersedes [loopback-angular](https://www.npmjs.org/loopback-angular). Please update your package.json accordingly.**
 
