@@ -49,6 +49,8 @@
     "mocha": "~1.18.0",
     "morgan": "^1.2",
     "phantomjs": "^1.9.19",
-    "requirejs": "^2.1.9"
+    "requirejs": "^2.1.9",
+    "optimist": "^0.6.1",
+    "semver": "^2.2.1"
   }
 }
