@@ -1,4 +1,4 @@
-# LoopBack AngularJS SDK for alloy framework
+# LoopBack SDK for alloy framework
 
 --will be updated--
 
